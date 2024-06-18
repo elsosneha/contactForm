@@ -1,0 +1,54 @@
+input{
+    border: none;
+    background-color: rgb(182, 187, 188);
+    padding: 10px;
+    width: 300px;
+    border-radius: 8px;
+}
+textarea{
+    background-color: rgb(182, 187, 188);
+    width: 320px;
+    height: 150px;
+    border-radius: 8px;
+}
+.fg
+{ 
+    margin: 0px 250px;
+background-color: white; 
+width:400px;
+ height: 590px;
+float: right;
+ text-align: center;
+ border-radius: 0px 8px 8px 0px;
+}
+.bg
+{
+background-image: url(/img/hot\ balloon.avif);
+background-repeat: no-repeat;
+background-size: 800px;
+height: 590px;
+margin: 70px 70px 70px 300px;
+border-radius: 8px;
+}
+body{
+    background-image: url(/img/travel.jpeg);
+    background-repeat: no-repeat;
+     background-size: 100%;
+}
+.btn{
+    border: none;
+    padding: 2px;
+    width: 320px;
+    height:40px;
+    border-radius: 8px;
+    background-color: rgb(2, 230, 2);
+}
+.btn:hover{
+    background-color: red;
+}
+input:hover{
+    background-color: rgb(112, 109, 109);
+}
+textarea:hover{
+    background-color: rgb(112, 109, 109);
+}
